@@ -1,2 +1,2 @@
-# 50_projects_template
-Simple template for creating 50_projects  Udemy course.
+# Image Carousel
+Image carousel app project using HTML, CSS and JS.
